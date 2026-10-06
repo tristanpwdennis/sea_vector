@@ -1,0 +1,6 @@
+malariagen_data==15.10.0
+matplotlib
+seaborn
+cartopy
+kaleido
+tqdm
